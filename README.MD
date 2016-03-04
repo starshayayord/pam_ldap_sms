@@ -8,7 +8,7 @@ Simple py module to authenticate via LDAP (Active Directory) and SMS.
   
 ## Installation
 ### Prerequisites
-> https://sourceforge.net/projects/pam-python/files/
+> https://sourceforge.net/projects/pam-python/files/ (to compile on centos/redhat/fedora install patch https://sourceforge.net/p/pam-python/tickets/1/attachment/pam-python-1.0.4-fedora.patch) 
 
 > pip install python-ldap
 
