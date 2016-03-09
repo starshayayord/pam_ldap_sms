@@ -30,3 +30,5 @@ Change /etc/pamd./sshd
 ```sh
 auth       sufficient   pam_python.so pam_ldap_sms.py
 ```
+> IMPORTANT: If you are absolutely sure that are authorized in LDAP with the right credentials, please check that selinux right configured  or disabled.
+
